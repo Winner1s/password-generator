@@ -20,4 +20,4 @@ Goals include meeting the following criteria
 ### Sources
     <Daniel Vega> (<6/1/19>) <Random Password Generator in Javascript> (<Javascript>)[Youtube.com]
 
-![Getting Started](./images\screenshot.png)
+![Getting Started](./images/screenshot.png)
